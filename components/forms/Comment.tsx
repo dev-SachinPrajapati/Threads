@@ -12,7 +12,6 @@ import {
   FormField,
   FormItem,
   FormLabel,
-  FormMessage,
 } from "@/components/ui/form";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -50,7 +49,7 @@ const Comment = ({ threadId, currentUserImg, currentUserId }: Props) => {
   return (
     <Form {...form}>
       <form
-        className="mt-10 flex flex-col justify-start gap-10"
+        className="comment-form"
         onSubmit={form.handleSubmit(onSubmit)}
       >
         <FormField

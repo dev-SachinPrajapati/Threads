@@ -21,10 +21,10 @@ const nextConfig = {
                 protocol: "https",
                 hostname: "uploadthing.com"
             },
-            // {
-            //     protocol: "https",
-            //     hostname: "placehold.co"
-            // },
+            {
+                protocol: "https",
+                hostname: "placehold.co"
+            },
         ],
         domains: ['utfs.io'], // Add 'utfs.io' to the list of allowed domains
 

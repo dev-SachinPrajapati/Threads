@@ -57,7 +57,7 @@ export const POST = async (request: Request) => {
 
     try {
       await createCommunity(
-         // @ts-ignore
+        //  @ts-ignore
         id,
         name,
         slug,
@@ -74,7 +74,7 @@ export const POST = async (request: Request) => {
     }
   }
 
-  if (eventType === "organization.created") {
+  if (eventType === "organizationInvitation.created") {
     try {
       console.log("Invitation created", evnt?.data);
 
