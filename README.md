@@ -2,19 +2,17 @@
 
 Build a powerful full-stack Threads Clone app using **Next.js 14+**, based on a Figma design and packed with modern features like authentication, nested comments, community management, real-time search, and more.
 
-This project is built step-by-step in our detailed [JavaScript Mastery YouTube tutorial](https://www.youtube.com/c/javascriptmastery). Join the JSM family and take your development skills to the next level!
 
 ---
 
 ## 🤖 Introduction
 
-This project walks you through building a full-stack Threads clone using **Next.js 14+**, starting from a Figma design and implementing:
+This project walks you through building a full-stack Threads clone using **Next.js 14+**, starting from a design and implementing:
 
 - User interactions
 - Community management
 - Advanced features like deep nested comments, real-time search, notifications, etc.
 
-Need help or want to connect with others building this project? Join our [Discord Community (27k+ members)](https://discord.gg/javascriptmastery).
 
 ---
 
