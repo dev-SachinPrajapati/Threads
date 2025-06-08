@@ -13,7 +13,6 @@ This project walks you through building a full-stack Threads clone using **Next.
 - Community management
 - Advanced features like deep nested comments, real-time search, notifications, etc.
 
-
 ---
 
 ## ⚙️ Tech Stack
