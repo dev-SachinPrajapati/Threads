@@ -1,4 +1,4 @@
-# 🧵 Full Stack Threads Clone
+# 🧵 Threads App 
 
 Build a powerful full-stack Threads Clone app using **Next.js 14+**, based on a Figma design and packed with modern features like authentication, nested comments, community management, real-time search, and more.
 
