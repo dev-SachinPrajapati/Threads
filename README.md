@@ -30,7 +30,6 @@ Need help or want to connect with others building this project? Join our [Discor
 
 ---
 
-
 ## 🔋 Features
 
 - ✅ **Authentication**: Secure login via Clerk (email, Google, GitHub)
