@@ -52,8 +52,8 @@ This project walks you through building a full-stack Threads clone using **Next.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/threads-clone.git
-cd threads-clone
+git clone https://github.com/dev-SachinPrajapati/Threads.git
+cd threads-app
 
 # 2. Install dependencies
 npm install
